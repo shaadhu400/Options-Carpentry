@@ -1,0 +1,20 @@
+.main-menu {
+    position: absolute;
+    top: 50%;
+    right: -15%;
+    /* left: 50%; */
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+.navbar {
+    background: #727274 !important;
+    border-bottom: 1px solid #727274;
+    font-family: BerlinSansFBDemiBold;
+    height: 14vh;
+    width: 100%;
+}
